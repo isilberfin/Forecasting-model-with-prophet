@@ -12,7 +12,7 @@ conda create -n time_series_venv python=3.8
 
 2. Activating
 ```
-conda activate time_series
+conda activate time_series_venv
 ```
 
 3. Other thing to consider is prophet requires  C++ compiler
